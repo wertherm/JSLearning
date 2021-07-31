@@ -1,0 +1,14 @@
+{
+  "name": "NodeTests",
+  "version": "1.0.0",
+  "description": "Testes Genericos",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Werther",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
