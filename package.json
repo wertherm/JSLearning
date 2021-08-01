@@ -4,7 +4,7 @@
   "description": "Testes Genericos",
   "main": "app.js",
   "scripts": {
-    "start": "node app"
+    "start": "node src/server.js"
   },
   "author": "Werther",
   "license": "MIT",
