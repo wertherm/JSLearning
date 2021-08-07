@@ -4,11 +4,16 @@
   "description": "Testes Genericos",
   "main": "app.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node src/server.js",
+    "test": "jest --coverage"
   },
   "author": "Werther",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "jest": "^27.0.6"
   }
 }
