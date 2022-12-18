@@ -1,8 +1,8 @@
 {
-  "name": "NodeTests",
+  "name": "JSLearning",
   "version": "1.0.0",
-  "description": "Testes Genericos",
-  "main": "app.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
     "start": "node src/server.js",
     "test": "jest --coverage"
