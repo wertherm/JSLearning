@@ -1,3 +1,6 @@
+//CLI (pós-clone):
+//npm install
+
 //Precisa do módulo sucrase para utilizar 'import' (ES6) https://www.geeksforgeeks.org/how-to-use-an-es6-import-in-node-js
 //import express from 'express';
 const express = require('express');
